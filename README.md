@@ -28,7 +28,7 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
-| 📧  	| @kamerezz.com	|
+| 📧  	| kamerezz.com	|
 | ![youtube](https://i.imgur.com/v76ZdvR.png) 	|
 | ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [KamerrEzz](https://www.facebook.com/KamerrEzz)	|
 | ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [KamerrEzz](https://twitter.com/KamerrEzz/)	|
