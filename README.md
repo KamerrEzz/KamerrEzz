@@ -1,16 +1,37 @@
-### Hi there 👋
+# 🖐 Hola soy Kamerr Ezz !!
+
+Soy un apasionado creador de contenido audiovisual 📹 y muy fan de la programacion, lo cual puedes encontrar este perfil. Adoro crear paginas webs, tanto la parte visual como la logica detras de ella.
+
+Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una buena persona tanto en lo personal y este mundo de la creacion audiovisual y la tecnologia.
+
+## 🌱 Proyectos ..
+*   [ZeewApi](https://github.com/KamerrEzz/zeewapi) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
+*   [KamerrStudio]() - Mi Propia Marca de contenido Audiovisual y programacion.
+
+## 🎓 estudios ..
+
+|              TERMINADAS             	|       ESTUDIANDO       	| 
+|:----------------------------:	|:-------------------:	|
+| 📑  Administrador de empresas 	| 📨 Marketing Digital	|
+|                              	| 💾 Desarrollador Web 	|   
+
+## 👯 Estoy buscando colaborar en ..
+* [Th Community](https://thcommunity.xyz/)
+    * **Cargo:** CO-CEO
+    * **Descripcion:** TH Community es una Comunidad creadora de contenido en desarrollo web, aplicaciones y Multimedia. 
+* [UnderBlocks Studio]()
+    * **Cargo:** Diseñador Grafico y Desarrollador Web
+    * **Descripcion:** es un equipo enfocado en comisiones y creación de contenido para la marketplace de minecraft
+
+## 📫  Redes Sociales: 
 
 
-**KamerrEzz/KamerrEzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|              MEDIA             	|       NOMBRE       	|
+|:----------------------------:	|:-------------------:	|
+| 📧  	| @kamerezz.com	|
+| ![youtube](https://i.imgur.com/v76ZdvR.png) 	|
+| ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [KamerrEzz](https://www.facebook.com/KamerrEzz)	|
+| ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [KamerrEzz](https://twitter.com/KamerrEzz/)	|
+| ![instagram](https://i.imgur.com/tu01NLm.png) 	| [KamerrEzz](https://www.instagram.com/KamerrEzz/)	|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+~ Si crees que puedo mejorar esto, dimelo, me ayudarias.
