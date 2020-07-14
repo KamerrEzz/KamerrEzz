@@ -15,7 +15,7 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 | 📑  Administrador de empresas 	| 📨 Marketing Digital	|
 |                              	| 💾 Desarrollador Web 	|   
 
-## 👯 Estoy buscando colaborar en ..
+## 👯 Estoy colaborando en:
 * [Th Community](https://thcommunity.xyz/)
     * **Cargo:** CO-CEO
     * **Descripcion:** TH Community es una Comunidad creadora de contenido en desarrollo web, aplicaciones y Multimedia. 
