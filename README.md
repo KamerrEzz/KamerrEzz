@@ -8,12 +8,13 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 *   [ZeewApi](https://github.com/KamerrEzz/zeewapi) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
 *   [KamerrStudio]() - Mi Propia Marca de contenido Audiovisual y programacion.
 
-## 🎓 estudios ..
+## 🎓 Habilidades ..
 
-|              TERMINADAS             	|       ESTUDIANDO       	| 
-|:----------------------------:	|:-------------------:	|
-| 📑  Administrador de empresas 	| 📨 Marketing Digital	|
-|                              	| 💾 Desarrollador Web 	|   
+|     	| 
+|:----------------------------:	|
+| 📑  Administrador de empresas 	
+| 📨 Marketing Digital	|
+|   💾 Desarrollador Web 	|   
 
 ## 👯 Estoy colaborando en:
 * [Th Community](https://thcommunity.xyz/)
@@ -33,5 +34,9 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 | ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [KamerrEzz](https://www.facebook.com/KamerrEzz)	|
 | ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [KamerrEzz](https://twitter.com/KamerrEzz/)	|
 | ![instagram](https://i.imgur.com/tu01NLm.png) 	| [KamerrEzz](https://www.instagram.com/KamerrEzz/)	|
+
+## 💰 Donaciones:
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3YEOZ)
 
 ~ Si crees que puedo mejorar esto, dimelo, me ayudarias.
