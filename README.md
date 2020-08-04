@@ -16,14 +16,6 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 | 📨 Marketing Digital	|
 |   💾 Desarrollador Web 	|   
 
-## 👯 Estoy colaborando en:
-* [Th Community](https://thcommunity.xyz/)
-    * **Cargo:** CO-CEO
-    * **Descripcion:** TH Community es una Comunidad creadora de contenido en desarrollo web, aplicaciones y Multimedia. 
-* [UnderBlocks Studio]()
-    * **Cargo:** Diseñador Grafico y Desarrollador Web
-    * **Descripcion:** es un equipo enfocado en comisiones y creación de contenido para la marketplace de minecraft
-
 ## 📫  Redes Sociales: 
 
 
