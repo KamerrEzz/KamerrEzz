@@ -17,9 +17,6 @@ Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decent
 
 - [KamerrStudio]() - Marca de Programacion y Tecnologia
 
-* Colaboraciones
-  - [cactusfire](https://cactusfire.xyz/) - [Comunidad](https://discord.com/invite/EgHdGmk) » Bot Discord
-
 # 🎓 Especialidades
 
 • 📑 Administrador de empresas  
