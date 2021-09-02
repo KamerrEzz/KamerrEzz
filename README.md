@@ -17,7 +17,7 @@ Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decent
 
 - [KamerrStudio]() - Marca de Programacion y Tecnologia
 
-- [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Api y Front de una web para subir y mostrar paginas | Echa en vuejs / react - js y typescript
+- [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Api y Front de una web para subir y mostrar imagenes | Echa en vuejs / react - js y typescript
 
 - [MyPortModules](https://github.com/KamerrEzz/MyPortModules) - una mini web para mostrar proyectos | js - hbs
 
