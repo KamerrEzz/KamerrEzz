@@ -1,32 +1,24 @@
-# 🖐 YO SOY KAMERR
+# 🖐 Hola
 
-Un apasionado **creador de contenido digital**, **Front-end** y **diseñador
-gráfico** que disfruta el crear momentos y emociones con el uso de los colores,
-la composición y las formas. Para expresar lo que mas queremos.
+Soy una persona, que le gusta crear contenido, ilustración o programación, Siempre me a gustado aprender, enseñar y emprender.
 
-
-![](https://github.githubassets.com/images/mona-whisper.gif)
-**> DIFRUTA LO QUE HACES Y NUNCA TE RENDIRAS <**
-![](https://github.githubassets.com/images/mona-whisper.gif)
+- 💻 Creador de contenido digital 
+- 🦄 Desarrollador FullStack
+- 🎨 Diseñador Grafico
 
 # 🌱 Proyectos
 
 Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decente para estar aqui.
 
-- [ZeewApi](https://github.com/KamerrEzz/zeewapi) [[NPM]](https://www.npmjs.com/package/zeew) Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
+- [Zeew.dev](https://zeew.dev/) Una startup de aprendizaje en tecnologia y arte.
 
-- [KamerrStudio]() - Marca de Programacion y Tecnologia
+- [KamerrStudio]() - Marca Personal
 
-- [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Api y Front de una web para subir y mostrar imagenes | Echa en vuejs / react - js y typescript
+- [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Una app para subir y mostrar imagenes
 
-- [MyPortModules](https://github.com/KamerrEzz/MyPortModules) - una mini web para mostrar proyectos | js - hbs
+- [MyPortModules](https://github.com/KamerrEzz/MyPortModules) - Una web para mostrar proyectos propios.
 
-# 🎓 Especialidades
-
-• 📑 Administrador de empresas  
-• 💾 Desarrollador Web
-
-# 📫 Redes Sociales
+# 📫 Contacto
 
 En la mayoria o en gran parte de las redes sociales tengo o estoy puesto como `KamerrEzz` pero estas son las generales y de acceso rapido.
 
@@ -39,6 +31,13 @@ En la mayoria o en gran parte de las redes sociales tengo o estoy puesto como `K
 |                    Discord                    | [KamerrEzz](http://discord.com/users/403695999941345280) |
 |                    Discord                    |         [Comunidad](https://discord.gg/ybAN7w8)          |
 
+# 📑 Github status
+
+![Kamerr Ezz Status](https://github-readme-stats.vercel.app/api?username=kamerrezz&show_icons=true&theme=radical)
+
+
 # Gracias
 
 » [Apoyar con paypal](https://www.paypal.com/paypalme/kamerrezzoficial/100)
+
+
