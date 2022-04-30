@@ -10,13 +10,14 @@ Soy una persona, que le gusta crear contenido, ilustración o programación, Sie
 
 Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decente para estar aqui.
 
-- [Zeew.dev](https://zeew.dev/) Una startup de aprendizaje en tecnologia y arte.
+- Relevantes
+  - [Zeew.dev](https://zeew.dev/) Una startup de aprendizaje en tecnologia y arte.
+  - [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Una app para subir y mostrar imagenes
 
-- [KamerrStudio]() - Marca Personal
-
-- [ki.img](https://github.com/KamerrEzz/ki.img-upload-testing) - Una app para subir y mostrar imagenes
-
-- [MyPortModules](https://github.com/KamerrEzz/MyPortModules) - Una web para mostrar proyectos propios.
+- Categoria
+  - [BackEnd]()
+  - [FrontEnd](https://github.com/KamerrEzz/frontend)
+  - [FullStack]() - Aplicaciones con BackEnd y FrontEnd
 
 # 📫 Contacto
 
