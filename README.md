@@ -16,7 +16,7 @@ Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decent
 
 - Categoria
   - [BackEnd]()
-  - [FrontEnd](https://github.com/KamerrEzz/frontend)
+  - [FrontEnd](https://github.com/KamerrEzz/frontend) - Paginas y Aplicaciones Web
   - [FullStack]() - Aplicaciones con BackEnd y FrontEnd
 
 # 📫 Contacto
