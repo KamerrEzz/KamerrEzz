@@ -37,6 +37,9 @@ En la mayoria o en gran parte de las redes sociales tengo o estoy puesto como `K
 
 ![Kamerr Ezz Status](https://github-readme-stats.vercel.app/api?username=kamerrezz&show_icons=true&theme=radical)
 
+# Discord
+
+![Mi estado de discord](https://api.zeew.dev/resources/discord/es/full_card/403695999941345280)
 
 # Gracias
 
