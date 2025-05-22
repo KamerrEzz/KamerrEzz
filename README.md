@@ -2,11 +2,6 @@
      │                              KAMERR EZZ                               │
      ╰────────────────────────────────────────────────────────────────────────╯ -->
 
-
-<h1 align="center">
-  Hola, soy <strong>Kamerr Ezz</strong>
-</h1>
-
 <p align="center">
   <em>Full-stack dev · Maker educativo · Story-driven builder</em><br/>
   Enseño creando &nbsp;·&nbsp; Creo para seguir aprendiendo
