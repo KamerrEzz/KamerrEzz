@@ -36,6 +36,7 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 ## 🚀 Qué estoy construyendo ahora
 
 - **[Zeew Space](https://zeew.space)** • plataforma E-Learning *learn-by-doing*
+- **[Fivehubpro](https://fivehub.pro/)**  • una plataforma para guardar assets (CDN)
 
 > **Mi north-star:** simplificar la vida de devs y estudiantes con herramientas bien cuidadas y docs humanas.
 
