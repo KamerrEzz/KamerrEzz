@@ -84,8 +84,9 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 
 ## ✨ Repositorios principales
 
-- 🧩 [Frontend Projects](https://github.com/KamerrEzz/frontend) → React · HTML · Plantillas visuales
-- 🛠️ [Backend Projects](https://github.com/KamerrEzz/backend) → NestJS · Express · Prisma
+- 🧩 [Frontend Projects](https://github.com/KamerrEzz/frontend)
+- 🛠️ [Backend Projects](https://github.com/KamerrEzz/backend)
+- 🌱 [Minecraft Projects](https://github.com/KamerrEzz/minecraft)
 <!--
 - 🧪 [Labs & Experimentos](https://github.com/KamerrEzz/scripts) → Pruebas sueltas, CLI tools
 - 💼 [Proyectos Freelance](https://github.com/KamerrEzz/APPS) → Apps externas o para clientes
