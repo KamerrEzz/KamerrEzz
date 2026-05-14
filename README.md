@@ -79,22 +79,30 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat&logo=githubpages&logoColor=white)
 
+---
+
+## ✨ Escaparates por área
+
+| Área | Hub | Highlights |
+|------|-----|------------|
+| 🖼️ Frontend | [frontend](https://github.com/KamerrEzz/frontend) | horarios · ticktime · kamerrezz.com |
+| ⚙️ Backend | [backend](https://github.com/KamerrEzz/backend) | nest-auth-hybrid · pulsecheck · open.back-predictions |
+| 🤖 Discord | [discord](https://github.com/KamerrEzz/discord) | discord-dashboard_Basic ⭐ · discordjs-core-bot |
+| 🎮 Minecraft | [minecraft](https://github.com/KamerrEzz/minecraft) | Zone Royale · SimpleAuth |
+| 🧪 Labs | [labs](https://github.com/KamerrEzz/labs) | scripts · oggTomp3 |
 
 ---
 
-## ✨ Repositorios principales
+## 🏆 Proyectos destacados
 
-- 🧩 [Frontend Projects](https://github.com/KamerrEzz/frontend)
-- 🛠️ [Backend Projects](https://github.com/KamerrEzz/backend)
-- 🌱 [Minecraft Projects](https://github.com/KamerrEzz/minecraft)
-<!--
-- 🧪 [Labs & Experimentos](https://github.com/KamerrEzz/scripts) → Pruebas sueltas, CLI tools
-- 💼 [Proyectos Freelance](https://github.com/KamerrEzz/APPS) → Apps externas o para clientes
-- 🎒 [Educativos & Cursos](https://github.com/KamerrEzz/Curso_POO) → Material para enseñar
-- 🧱 [Boilerplates & Templates](https://github.com/KamerrEzz/next-saas-starter) → Starters propios
--->
+- 🤖 **[discordjs-core-bot](https://github.com/KamerrEzz/discordjs-core-bot)** — boilerplate enterprise con DI, Prisma, Redis y propagación de contexto API.
+- 🔐 **[nest-auth-hybrid](https://github.com/KamerrEzz/nest-auth-hybrid) + [next-auth-hybrid](https://github.com/KamerrEzz/next-auth-hybrid)** — pareja auth full-stack con 2FA y OTP.
+- 📡 **[pulsecheck](https://github.com/KamerrEzz/pulsecheck)** — monitor de servicios self-hosted con Node.js, HTMX y Redis.
+- 🎮 **[mc-zoneroyale](https://github.com/KamerrEzz/mc-zoneroyale)** — mod Battle Royale para Minecraft Forge 1.20.1.
+- 🍕 **[odoo-x-restopro](https://github.com/KamerrEzz/odoo-x-restopro)** — módulos Odoo 17 para restaurantes (mesas + KDS).
+- 📱 **[uni-android-multilang](https://github.com/KamerrEzz/uni-android-multilang)** — app Android Kotlin multiidioma y responsive.
+
 ---
-
 
 ## 🎙️ Contenido & comunidad
 
