@@ -96,7 +96,10 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 ## 🏆 Proyectos destacados
 
 - 🤖 **[discordjs-core-bot](https://github.com/KamerrEzz/discordjs-core-bot)** — boilerplate enterprise con DI, Prisma, Redis y propagación de contexto API.
-- 🔐 **[nest-auth-hybrid](https://github.com/KamerrEzz/nest-auth-hybrid) + [next-auth-hybrid](https://github.com/KamerrEzz/next-auth-hybrid)** — pareja auth full-stack con 2FA y OTP.
+- 🔐 **VaultAuth — Authorization Server OAuth 2.0 / OIDC**
+  - **[nest-auth-hybrid](https://github.com/KamerrEzz/nest-auth-hybrid)** — backend NestJS: sesion hibrida, 2FA TOTP, OAuth 2.0 + PKCE, OIDC discovery
+  - **[next-auth-hybrid](https://github.com/KamerrEzz/next-auth-hybrid)** — portal frontend: login, consentimiento OAuth, panel de desarrollador
+  - **[vaultauth-demo-app](https://github.com/KamerrEzz/vaultauth-demo-app)** — app demo con NextAuth v5 como cliente OAuth
 - 📡 **[pulsecheck](https://github.com/KamerrEzz/pulsecheck)** — monitor de servicios self-hosted con Node.js, HTMX y Redis.
 - 🎮 **[mc-zoneroyale](https://github.com/KamerrEzz/mc-zoneroyale)** — mod Battle Royale para Minecraft Forge 1.20.1.
 - 🍕 **[odoo-x-restopro](https://github.com/KamerrEzz/odoo-x-restopro)** — módulos Odoo 17 para restaurantes (mesas + KDS).
