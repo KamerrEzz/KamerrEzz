@@ -36,6 +36,7 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 ## 🚀 Qué estoy construyendo ahora
 
 - **[Zeew Space](https://zeew.space)** • plataforma E-Learning *learn-by-doing*
+- **[kamerrezz.com](https://github.com/KamerrEzz/kamerrezz.com)** • mi web personal
 - **[MiniObserv](https://github.com/KamerrEzz/theminidog)** • plataforma de observabilidad self-hosted en Go — métricas, logs, alertas y dashboard en tiempo real
 - **[Fivehubpro](https://fivehub.pro/)**  • una plataforma para guardar assets (CDN)
 
