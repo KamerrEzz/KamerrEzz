@@ -105,7 +105,7 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 - 📡 **[pulsecheck](https://github.com/KamerrEzz/pulsecheck)** — monitor de servicios self-hosted con Node.js, HTMX y Redis.
 - 🎮 **[mc-zoneroyale](https://github.com/KamerrEzz/mc-zoneroyale)** — mod Battle Royale para Minecraft Forge 1.20.1.
 - 🍕 **[odoo-x-restopro](https://github.com/KamerrEzz/odoo-x-restopro)** — módulos Odoo 17 para restaurantes (mesas + KDS).
-- 📱 **[uni-android-multilang](https://github.com/KamerrEzz/uni-android-multilang)** — app Android Kotlin multiidioma y responsive.
+- 🖥️ **[mi-terminal-config](https://github.com/KamerrEzz/mi-terminal-config)** — setup completo de terminal para Windows (Tokyo Night, Oh My Posh, fastfetch, zoxide, eza, fzf) con instalador automático en un solo comando.
 
 ---
 
