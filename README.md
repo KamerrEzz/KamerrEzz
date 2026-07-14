@@ -85,25 +85,27 @@ Además de programar, me apasiona documentar el camino creativo. A veces escribo
 
 ## ✨ Escaparates por área
 
-| Área | Hub | Highlights |
-|------|-----|------------|
-| 🖼️ Frontend | [frontend](https://github.com/KamerrEzz/frontend) | horarios · ticktime · kamerrezz.com |
-| ⚙️ Backend | [backend](https://github.com/KamerrEzz/backend) | nest-auth-hybrid · pulsecheck · open.back-predictions |
-| 🤖 Discord | [discord](https://github.com/KamerrEzz/discord) | discord-dashboard_Basic ⭐ · discordjs-core-bot |
-| 🎮 Minecraft | [minecraft](https://github.com/KamerrEzz/minecraft) | Zone Royale · SimpleAuth |
-| 🧪 Labs | [labs](https://github.com/KamerrEzz/labs) | scripts · oggTomp3 |
+| Área | Proyectos |
+|------|-----------|
+| 🖼️ Frontend | [kamerrezz.com](https://github.com/KamerrEzz/kamerrezz.com) · [ticktime](https://github.com/KamerrEzz/ticktime) · [horarios](https://github.com/KamerrEzz/horarios) |
+| ⚙️ Backend / Sistemas | [ledgr](https://github.com/KamerrEzz/ledgr) · [stackyard](https://github.com/KamerrEzz/stackyard) · [theminidog](https://github.com/KamerrEzz/theminidog) · [pulsecheck](https://github.com/KamerrEzz/pulsecheck) |
+| 📱 Mobile | [TaskSquad](https://github.com/KamerrEzz/TaskSquad) |
+| 🤖 Discord | [discord-dashboard_Basic](https://github.com/KamerrEzz/discord-dashboard_Basic) ⭐ · [discordjs-core-bot](https://github.com/KamerrEzz/discordjs-core-bot) |
+| 🎮 Minecraft | [mc-zoneroyale](https://github.com/KamerrEzz/mc-zoneroyale) · [mc-simpleauth](https://github.com/KamerrEzz/mc-simpleauth) |
 
 ---
 
 ## 🏆 Proyectos destacados
 
-- 🤖 **[discordjs-core-bot](https://github.com/KamerrEzz/discordjs-core-bot)** — boilerplate enterprise con DI, Prisma, Redis y propagación de contexto API.
+- 💳 **[ledgr](https://github.com/KamerrEzz/ledgr)** — boilerplate de SaaS marketplace multi-tenant con ledger, split payments e idempotencia de webhooks.
+- 🖥️ **[stackyard](https://github.com/KamerrEzz/stackyard)** — cliente de bases de datos multi-engine (Postgres/MySQL/MongoDB/Redis) como app de escritorio en Go + Wails.
+- 📊 **[theminidog](https://github.com/KamerrEzz/theminidog)** — plataforma de observabilidad self-hosted en Go, estilo mini Datadog (métricas, logs, alertas, dashboard).
+- 📱 **[TaskSquad](https://github.com/KamerrEzz/TaskSquad)** — app mobile de gestión de tareas con gamificación social (Expo/React Native + NestJS + Socket.IO).
 - 🔐 **VaultAuth — Authorization Server OAuth 2.0 / OIDC**
   - **[nest-auth-hybrid](https://github.com/KamerrEzz/nest-auth-hybrid)** — backend NestJS: sesion hibrida, 2FA TOTP, OAuth 2.0 + PKCE, OIDC discovery
   - **[next-auth-hybrid](https://github.com/KamerrEzz/next-auth-hybrid)** — portal frontend: login, consentimiento OAuth, panel de desarrollador
   - **[vaultauth-demo-app](https://github.com/KamerrEzz/vaultauth-demo-app)** — app demo con NextAuth v5 como cliente OAuth
-- 📡 **[pulsecheck](https://github.com/KamerrEzz/pulsecheck)** — monitor de servicios self-hosted con Node.js, HTMX y Redis.
-- 🎮 **[mc-zoneroyale](https://github.com/KamerrEzz/mc-zoneroyale)** — mod Battle Royale para Minecraft Forge 1.20.1.
+- 🤖 **[discordjs-core-bot](https://github.com/KamerrEzz/discordjs-core-bot)** — boilerplate enterprise con DI, Prisma, Redis y propagación de contexto API.
 - 🍕 **[odoo-x-restopro](https://github.com/KamerrEzz/odoo-x-restopro)** — módulos Odoo 17 para restaurantes (mesas + KDS).
 - 🖥️ **[mi-terminal-config](https://github.com/KamerrEzz/mi-terminal-config)** — setup completo de terminal para Windows (Tokyo Night, Oh My Posh, fastfetch, zoxide, eza, fzf) con instalador automático en un solo comando.
 
